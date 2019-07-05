@@ -1,2 +1,13 @@
-<ROOT>
+<?xml version="1.0" encoding="UTF-8"?><ROOT>
+<ArchInfo Date="1562327516400" Description="Alle DIFT Jobs" Name="All Jobs in DIFT" PackageName="All Jobs in DIFT.spk" UserID="Marcel" Version="fc3c041">
+<ContainObj>SBIP://METASERVER/Data Mart Development/Orion Jobs/DIFT Populate Customer Order Information Table(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/Orion Jobs/DIFT Populate Customer Dimension Table(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/Orion Jobs/DIFT Populate Current and Terminated Staff Tables(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/Orion Jobs/DIFT Populate Old and Recent Orders Tables(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/Orion Jobs/DIFT Populate Order Fact Table(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/Orion Jobs/DIFT Populate Organization Dimension Table(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/Orion Jobs/DIFT Populate Product Dimension Table(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/Orion Jobs/DIFT Populate Product Orders Table(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/Orion Jobs/DIFT Populate Time Dimension Table(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
